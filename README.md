@@ -1,5 +1,5 @@
 # 💫 About Me:
-Informatics Engineering Student | Android Developer, UI/UX Designer, Network Engineering and Cloud Computing Student Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
+Informatics Engineering Student | Android Developer, Backend Developer, UI/UX Designer, Network Engineering and Cloud Computing Student Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
 
 
 ## 🌐 Socials:
